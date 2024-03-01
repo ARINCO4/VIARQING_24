@@ -9,7 +9,7 @@
 
 
 
-Esto es un folder
+
 
 </div></div>
 
@@ -31,7 +31,7 @@ EJEMPLO DE EDIFICIO
 
 
 
-Esto es un folder
+
 
 </div></div>
 
