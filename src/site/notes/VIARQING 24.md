@@ -25,6 +25,8 @@ ESTE ES EL INICIO DE TODO UN UNIVERSO DE LA ARQUITECTURA
 
 EJEMPLO DE EDIFICIO
 
+[[OTROS PROYECTOS/CASA 2\|CASA 2]]
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
